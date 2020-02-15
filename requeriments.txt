@@ -1,0 +1,15 @@
+Requisitos:
+
+0 Setup:
+	Pantalla pintada
+	Datos fichas
+	Imagenes
+	(Almacenar cada tipo de ficha como un arreglo)
+
+1 Fichas:
+	Fichas pintadas en pantalla
+	Rotacion
+	Caer
+
+Trabajo de murillo actual:
+Hacer un archivo pieces.py con datos de cada ficha
